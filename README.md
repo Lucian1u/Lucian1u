@@ -2,7 +2,7 @@
 
 # Lucian
 
-把容易失控的 AI 工作流，做成边界清楚、能够验收的工具。
+UX设计师，分享与Agent协作的真实体验
 
 `Agent Skills` · `Local-first tools` · `Traceable workflows`
 
